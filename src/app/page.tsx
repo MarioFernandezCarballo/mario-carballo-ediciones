@@ -51,7 +51,7 @@ export default function Home() {
               </div>
               <div className="relative">
                 <Image
-                  src="/mockup1.jpg"
+                  src="/mockup1.webp"
                   alt="Proceso editorial artesanal"
                   width={500}
                   height={600}
@@ -72,7 +72,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
             <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
               <Image
-                src="/mockup2.jpg"
+                src="/mockup2.webp"
                 alt="Publicación destacada"
                 width={400}
                 height={500}
@@ -89,7 +89,7 @@ export default function Home() {
             </div>
             <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
               <Image
-                src="/mockup3.jpg"
+                src="/mockup3.webp"
                 alt="Edición especial"
                 width={400}
                 height={500}
